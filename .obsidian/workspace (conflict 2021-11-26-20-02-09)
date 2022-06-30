@@ -1,0 +1,87 @@
+{
+  "main": {
+    "id": "fffaf34ea19d89f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "905a92a8bd0a16d0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "The neuroscience of sadness.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c490e42036f95ecf",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "532ede4155099359",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "9501256cc175e727",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "7175f756195b98e3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b1a331ead165777a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "The neuroscience of sadness.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "905a92a8bd0a16d0",
+  "lastOpenFiles": [
+    "The neuroscience of sadness.md",
+    "Psychosomatic Inflammation.md",
+    "True behavior of the 'pleasure molecule'.md",
+    "Смена пола у рыб попугаев.md",
+    "Untitled.md",
+    "templates/General.md",
+    "Nicotine addiction.md",
+    "AmSLan.md",
+    "Pasted image 20211021011818.png",
+    "Работа гормонов и причины сбоев.md"
+  ]
+}

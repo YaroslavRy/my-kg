@@ -1,0 +1,87 @@
+{
+  "main": {
+    "id": "fffaf34ea19d89f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c267dc1b08ae783",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Temporo-spatial theory of consiousness.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7d875d21ae7c679d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "df44721ebf230257",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "996cf75f0f6c6e0c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#conciousness",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "0085e2fe5bec2cf4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "689653ae25a38cd7",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Temporo-spatial theory of consiousness.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "6c267dc1b08ae783",
+  "lastOpenFiles": [
+    "Temporo-spatial theory of consiousness.md",
+    "Symbiosis of Wasps and Viruses.md",
+    "Prefrontal cortex.md",
+    "Amygdala.md",
+    "Происхождение языка.md",
+    "Untitled.md",
+    "Reconciling Current Theories of Consciousness.md",
+    "Auditory pathway.md",
+    "Consciousness.md",
+    "The Integrated Information Theory of Consciousness.md"
+  ]
+}

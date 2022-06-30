@@ -1,0 +1,87 @@
+{
+  "main": {
+    "id": "fffaf34ea19d89f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "905a92a8bd0a16d0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Auditory pathway.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa3da76ea7c9d39a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "02beb6472caf21e4",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "8d9330032befb9d8",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "ba8eec24054b5aef",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7c446f04bd6f1098",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Auditory pathway.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "905a92a8bd0a16d0",
+  "lastOpenFiles": [
+    "Auditory pathway.md",
+    "Two Photon Microscopy.md",
+    "Benzodiazepines.md",
+    "Nicotine addiction.md",
+    "Aphasia and verbs.md",
+    "Prefrontal cortex.md",
+    "Memory.md",
+    "Hippocampus.md",
+    "Psychosomatic Inflammation.md",
+    "Amygdala.md"
+  ]
+}

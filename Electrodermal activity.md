@@ -1,0 +1,2 @@
+
+[Electrodermal activity measurements for detection of emotional arousal](https://www.researchgate.net/publication/335570217_Electrodermal_activity_measurements_for_detection_of_emotional_arousal)

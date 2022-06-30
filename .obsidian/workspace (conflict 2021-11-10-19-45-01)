@@ -1,0 +1,83 @@
+{
+  "main": {
+    "id": "fffaf34ea19d89f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c267dc1b08ae783",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1547bf5edb3355e2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bcc5f4501af9f7f4",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "c54bdb25ff90cd5f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "0a924957e4f4266c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "00a06dac93705506",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "6c267dc1b08ae783",
+  "lastOpenFiles": [
+    "PsychosomaticInflammation.md",
+    "Psychosomatic.md",
+    "Untitled.md",
+    "AmSLan.md",
+    "Происхождение языка.md",
+    "Temporo-spatial theory of consciousness.md",
+    "Prostaglandins.md",
+    "Prefrontal cortex.md",
+    "Memory.md",
+    "Hippocampus.md"
+  ]
+}

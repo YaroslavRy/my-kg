@@ -1,0 +1,88 @@
+{
+  "main": {
+    "id": "fffaf34ea19d89f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "905a92a8bd0a16d0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sociological study finds genes play a significant role in shaping our cultural tastes.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d9e2981f1eba3856",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "04eca9ef116ae995",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "26816940c25ebc48",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "335be3a6b8db1e40",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f012261ccca372eb",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Sociological study finds genes play a significant role in shaping our cultural tastes.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "905a92a8bd0a16d0",
+  "lastOpenFiles": [
+    "Sociological study finds genes play a significant role in shaping our cultural tastes.md",
+    "Nicotine addiction.md",
+    "Neurobiology of Borderline Personality Disorder.md",
+    "Memory.md",
+    "Hippocampus.md",
+    "Graph Neural Network for Protein 3d Structures.md",
+    "Generalized Anxiety Disorder.md",
+    "Consciousness.md",
+    "Predictive coding and Alpha rhytm.md",
+    "Wanting and Liking brain.md"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "main": {
+    "id": "fffaf34ea19d89f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "905a92a8bd0a16d0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Reconciling Current Theories of Consciousness.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5dcd5aaf2e40875e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "29e9a0ab252a5257",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "5f48d48ac5695039",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "8a95f3c8a7779ddc",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b7f98d9054f06b06",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Reconciling Current Theories of Consciousness.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "905a92a8bd0a16d0",
+  "lastOpenFiles": [
+    "Reconciling Current Theories of Consciousness.md",
+    "Illusions.md",
+    "Researches.md",
+    "Wanting and Liking brain.md",
+    "Триглицериды.md",
+    "Datasets.md",
+    "Neurobiology of Borderline Personality Disorder.md",
+    "The Brain Basis of Language Processing. From Structure to Function.md",
+    "EEG.md",
+    "Symbiosis of Wasps and Viruses.md"
+  ]
+}
